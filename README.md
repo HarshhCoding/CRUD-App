@@ -10,8 +10,8 @@
 - [API Endpoints](#api-endpoints)
 - [Database Schema](#database-schema)
 - [Future Improvements](#future-improvements)
+- [Postman Screenshots](#Images-of-Postman-Doing-CRUD-operations)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -109,19 +109,19 @@ create table product (
 
 
 ### Create Operation
-![Create Operation](src/main/resources/static/screenshots/add.png)
+![Create Operation](main/resources/static/screenshots/add.png)
 
 ### Read Operation
-![Read Operation](src/main/resources/static/screenshots/all.png)
+![Read Operation](main/resources/static/screenshots/all.png)
 
 ### Read Operation By Id
-![Read Operation](src/main/resources/static/screenshots/get.png)
+![Read Operation](main/resources/static/screenshots/get.png)
 
 ### Update Operation
-![Update Operation](src/main/resources/static/screenshots/update.png)
+![Update Operation](main/resources/static/screenshots/update.png)
 
 ### Delete Operation
-![Delete Operation](src/main/resources/static/screenshots/delete.png)
+![Delete Operation](main/resources/static/screenshots/delete.png)
 
 ## Contributing
 
