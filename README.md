@@ -109,19 +109,19 @@ create table product (
 
 
 ### Create Operation
-![Create Operation](main/resources/static/screenshots/add.png)
+![Create Operation](src/main/resources/static/screenshots/add.png)
 
 ### Read Operation
-![Read Operation](main/resources/static/screenshots/all.png)
+![Read Operation](src/main/resources/static/screenshots/all.png)
 
 ### Read Operation By Id
-![Read Operation](main/resources/static/screenshots/get.png)
+![Read Operation](src/main/resources/static/screenshots/get.png)
 
 ### Update Operation
-![Update Operation](main/resources/static/screenshots/update.png)
+![Update Operation](src/main/resources/static/screenshots/update.png)
 
 ### Delete Operation
-![Delete Operation](main/resources/static/screenshots/delete.png)
+![Delete Operation](src/main/resources/static/screenshots/delete.png)
 
 ## Contributing
 
